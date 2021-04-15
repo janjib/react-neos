@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-neos/static/css/main.cffa6b6d.chunk.css",
+    "main.js": "/react-neos/static/js/main.815c80b8.chunk.js",
+    "main.js.map": "/react-neos/static/js/main.815c80b8.chunk.js.map",
+    "runtime-main.js": "/react-neos/static/js/runtime-main.f25cc1ad.js",
+    "runtime-main.js.map": "/react-neos/static/js/runtime-main.f25cc1ad.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-neos/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7a1cd008.chunk.js": "/react-neos/static/js/2.7a1cd008.chunk.js",
+    "static/js/2.7a1cd008.chunk.js.map": "/react-neos/static/js/2.7a1cd008.chunk.js.map",
+    "index.html": "/react-neos/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-neos/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.cffa6b6d.chunk.css.map": "/react-neos/static/css/main.cffa6b6d.chunk.css.map",
+    "static/js/2.7a1cd008.chunk.js.LICENSE.txt": "/react-neos/static/js/2.7a1cd008.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f25cc1ad.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.7a1cd008.chunk.js",
+    "static/css/main.cffa6b6d.chunk.css",
+    "static/js/main.815c80b8.chunk.js"
+  ]
+}
